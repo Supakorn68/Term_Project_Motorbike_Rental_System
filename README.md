@@ -1,2 +1,1 @@
-# 68-python-Supakorn
-2004
+Term_Project_Motorbike_Rental_System
